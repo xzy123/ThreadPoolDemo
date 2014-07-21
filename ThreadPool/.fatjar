@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jul 21 14:29:16 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ThreadPool_fat.jar
+manifest.mergeall=true
+manifest.mainclass=MainFunction.MainFunc
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
